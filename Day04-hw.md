@@ -44,8 +44,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScfXQDqu8VEV6v4xwuRy9eD82Pd0khg96tUF9fA
 
 ### Подсказки
 0 Если вы знаете, чего хотите, но не знаете, как это сделать в гугл-таблицах, можно:
-  - посмотреть основы со скриншотами здесь: https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FElizavetaKuzmenko%2FProgramming-and-computer-instruments%2Fblob%2Fmaster%2FGoogle-Spreadsheets-basic.md&cc_key=
-  - почитать гугл-справку здесь: https://vk.com/away.php?to=https%3A%2F%2Fsupport.google.com%2Fdocs%2F%3Fhl%3Dru%23topic%3D&cc_key=
+  - посмотреть основы со скриншотами здесь: https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/Google-Spreadsheets-basic.md
+  - почитать гугл-справку здесь: https://support.google.com/docs/?hl=ru#topic=
   
 1.2 Удобно создавать случайную выборку при помощи нового столбца, в ячейках которого будет сгенерированное случайное число (вам поможет формула =RAND() / =СЛЧИС() ). Отсортируйте примеры по этому столбцу
 
